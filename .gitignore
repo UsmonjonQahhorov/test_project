@@ -506,15 +506,4 @@ fabric.properties
 
 .idea
 /venv
-/apps/users/migrations
-/apps/core/migrations
-/apps/school/migrations
-/apps/teacher/migrations
-/apps/student/migrations
-/apps/klass/migrations
-/apps/quarter/migrations
-/apps/subjects/migrations
-**/migrations/
-/config/settings.py
 
-/media/teacher_docs/*
